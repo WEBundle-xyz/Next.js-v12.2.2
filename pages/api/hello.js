@@ -3,3 +3,6 @@
 export default function handler(req, res) {
   res.status(200).json({ name: 'John Doe' })
 }
+
+
+// how an apps works and behaves 
