@@ -8,9 +8,4 @@ function HomePage() {
 
 export default HomePage;
 
-/*
-with all 
 
-
-
-*/
