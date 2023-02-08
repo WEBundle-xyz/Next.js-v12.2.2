@@ -6,7 +6,6 @@
 
 [2 - Added the first page ](../../tree/162ab79cfa2467e60ac78ca161be383e6ef66633/)
 
-[3 -  ](../../tree//)
+[3 - Added pages with dynamic segment ](../../tree/22db4d1a919bb037305c10626640138cc91b5db8/)
 
-[4 -  ](../../tree//)
-
+[4 - ](../../tree//)
